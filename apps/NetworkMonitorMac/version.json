@@ -1,0 +1,5 @@
+{
+  "version": "1.2.0",
+  "arm64": { "url": "apps/NetworkMonitorMac/NetworkMonitor-Mac-1.2.0-osx-arm64.zip", "sha256": "616289B24705B635B66AC54EBD86FFD95FD79BE5D58621A8C16E855AD7410782" },
+  "x64": { "url": "apps/NetworkMonitorMac/NetworkMonitor-Mac-1.2.0-osx-x64.zip", "sha256": "2F16998AE5EC860FF470F634F5F959437D2A320DFF573ECEDB73D8294F7CC365" }
+}
