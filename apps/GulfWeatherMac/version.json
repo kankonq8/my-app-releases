@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
-  "url": "apps/GulfWeatherMac/GulfWeather-Mac-1.3.1-osx-universal.zip",
-  "sha256": "F9F32C54C8E70641DE2501C29E6A129EA66D51E408B197D37FD6523FDD8B7AD4",
-  "arm64": { "url": "apps/GulfWeatherMac/GulfWeather-Mac-1.3.1-osx-universal.zip", "sha256": "F9F32C54C8E70641DE2501C29E6A129EA66D51E408B197D37FD6523FDD8B7AD4" },
-  "x64": { "url": "apps/GulfWeatherMac/GulfWeather-Mac-1.3.1-osx-universal.zip", "sha256": "F9F32C54C8E70641DE2501C29E6A129EA66D51E408B197D37FD6523FDD8B7AD4" }
+  "version": "1.5.0",
+  "url": "apps/GulfWeatherMac/GulfWeather-Mac-1.5.0-osx-universal.zip",
+  "sha256": "34896DEEC52B43354006CACA001CAEEC3DA11644E905152B844FCD92E26AC393",
+  "arm64": { "url": "apps/GulfWeatherMac/GulfWeather-Mac-1.5.0-osx-universal.zip", "sha256": "34896DEEC52B43354006CACA001CAEEC3DA11644E905152B844FCD92E26AC393" },
+  "x64": { "url": "apps/GulfWeatherMac/GulfWeather-Mac-1.5.0-osx-universal.zip", "sha256": "34896DEEC52B43354006CACA001CAEEC3DA11644E905152B844FCD92E26AC393" }
 }
