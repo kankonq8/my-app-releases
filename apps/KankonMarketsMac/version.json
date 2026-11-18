@@ -1,13 +1,13 @@
 {
-  "version": "1.3.0",
-  "url": "apps/KankonMarketsMac/KankonMarkets-Mac-1.3.0-osx-universal.zip",
-  "sha256": "5E6D99A969DC5A1F686EB7EADDB2D1E2CAFBA5BF97DD28714FB3781B2A4D642D",
+  "version": "1.4.0",
+  "url": "apps/KankonMarketsMac/KankonMarkets-Mac-1.4.0-osx-universal.zip",
+  "sha256": "2A3A6644C9E187BC63D8CD192F45233396139BEEC5AC58860B87EEFD6FC188A2",
   "arm64": {
-    "url": "apps/KankonMarketsMac/KankonMarkets-Mac-1.3.0-osx-universal.zip",
-    "sha256": "5E6D99A969DC5A1F686EB7EADDB2D1E2CAFBA5BF97DD28714FB3781B2A4D642D"
+    "url": "apps/KankonMarketsMac/KankonMarkets-Mac-1.4.0-osx-universal.zip",
+    "sha256": "2A3A6644C9E187BC63D8CD192F45233396139BEEC5AC58860B87EEFD6FC188A2"
   },
   "x64": {
-    "url": "apps/KankonMarketsMac/KankonMarkets-Mac-1.3.0-osx-universal.zip",
-    "sha256": "5E6D99A969DC5A1F686EB7EADDB2D1E2CAFBA5BF97DD28714FB3781B2A4D642D"
+    "url": "apps/KankonMarketsMac/KankonMarkets-Mac-1.4.0-osx-universal.zip",
+    "sha256": "2A3A6644C9E187BC63D8CD192F45233396139BEEC5AC58860B87EEFD6FC188A2"
   }
 }
