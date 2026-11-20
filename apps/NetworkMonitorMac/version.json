@@ -1,7 +1,7 @@
 {
-  "version": "1.6.10",
-  "url": "apps/NetworkMonitorMac/NetworkMonitor-Mac-1.6.10-osx-universal.zip",
-  "sha256": "1C8E2FBE19F76775028C99C48B4E1F013408F7EEA527BD5FB4E4B966FB0D0D30",
-  "arm64": { "url": "apps/NetworkMonitorMac/NetworkMonitor-Mac-1.6.10-osx-universal.zip", "sha256": "1C8E2FBE19F76775028C99C48B4E1F013408F7EEA527BD5FB4E4B966FB0D0D30" },
-  "x64": { "url": "apps/NetworkMonitorMac/NetworkMonitor-Mac-1.6.10-osx-universal.zip", "sha256": "1C8E2FBE19F76775028C99C48B4E1F013408F7EEA527BD5FB4E4B966FB0D0D30" }
+  "version": "1.6.11",
+  "url": "apps/NetworkMonitorMac/NetworkMonitor-Mac-1.6.11-osx-universal.zip",
+  "sha256": "72CE8C4F3610AD6778C888899C05923F2DF5EA4427DE41EA62E3F5AF90115E16",
+  "arm64": { "url": "apps/NetworkMonitorMac/NetworkMonitor-Mac-1.6.11-osx-universal.zip", "sha256": "72CE8C4F3610AD6778C888899C05923F2DF5EA4427DE41EA62E3F5AF90115E16" },
+  "x64": { "url": "apps/NetworkMonitorMac/NetworkMonitor-Mac-1.6.11-osx-universal.zip", "sha256": "72CE8C4F3610AD6778C888899C05923F2DF5EA4427DE41EA62E3F5AF90115E16" }
 }
