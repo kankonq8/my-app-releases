@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "macArm64": "ForceUninstaller-Mac-1.0.1-osx-arm64.zip",
-  "macArm64Sha256": "E696275640D20A891E7FEF5E049C306F79BBF202D939A01C0B9D3E74F1FCFF47",
-  "macX64": "ForceUninstaller-Mac-1.0.1-osx-x64.zip",
-  "macX64Sha256": "A2FAAE9D6B3235813FBC10D8AF72882145074E227A2D47BCEA7869D532DA0263",
-  "arm64": { "url": "apps/ForceUninstallerMac/ForceUninstaller-Mac-1.0.1-osx-arm64.zip", "sha256": "E696275640D20A891E7FEF5E049C306F79BBF202D939A01C0B9D3E74F1FCFF47" },
-  "x64": { "url": "apps/ForceUninstallerMac/ForceUninstaller-Mac-1.0.1-osx-x64.zip", "sha256": "A2FAAE9D6B3235813FBC10D8AF72882145074E227A2D47BCEA7869D532DA0263" }
+  "version": "1.0.2",
+  "macArm64": "ForceUninstaller-Mac-1.0.2-osx-arm64.zip",
+  "macArm64Sha256": "7748C2A4BD53CF49A461317FAE81CF8851E883CA9A40432BE3CBE4BA194B5F67",
+  "macX64": "ForceUninstaller-Mac-1.0.2-osx-x64.zip",
+  "macX64Sha256": "A491E6CDDAE6F28DE695549AFEB37EF24B078D6431798460F2F9D42E237B9669",
+  "arm64": { "url": "apps/ForceUninstallerMac/ForceUninstaller-Mac-1.0.2-osx-arm64.zip", "sha256": "7748C2A4BD53CF49A461317FAE81CF8851E883CA9A40432BE3CBE4BA194B5F67" },
+  "x64": { "url": "apps/ForceUninstallerMac/ForceUninstaller-Mac-1.0.2-osx-x64.zip", "sha256": "A491E6CDDAE6F28DE695549AFEB37EF24B078D6431798460F2F9D42E237B9669" }
 }
