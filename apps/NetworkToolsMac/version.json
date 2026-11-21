@@ -1,11 +1,11 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.8",
   "arm64": {
-    "url": "apps/NetworkToolsMac/NetworkTools-Mac-1.2.4-osx-arm64.zip",
-    "sha256": "EA88BC9E3E609BC8107A4F9F18A3333CDB842017CAE152B4BB8B2D9EBDE8EA7D"
+    "url": "apps/NetworkToolsMac/NetworkTools-Mac-1.2.8-osx-arm64.zip",
+    "sha256": "9FF46FCD6EC0371551D69A7E5689C4F82CD132B2CE1748CE94385B2BC83278A3"
   },
   "x64": {
-    "url": "apps/NetworkToolsMac/NetworkTools-Mac-1.2.4-osx-x64.zip",
-    "sha256": "9BD17531B8DF877BB011317A9A974D17A4F7D9CB2C7D53682DEDA54E1FA45451"
+    "url": "apps/NetworkToolsMac/NetworkTools-Mac-1.2.8-osx-x64.zip",
+    "sha256": "1BA6CCB6561B4C2A14E433BE905074025116A085BB1CCE5A6AB1A9122347DB2B"
   }
 }
