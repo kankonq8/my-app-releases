@@ -1,0 +1,17 @@
+{
+  "versionCode": 2,
+  "versionName": "2.0",
+  "notes": "iReport Photo Studio: الترتيب، التنظيف، كشف الإعلانات، تعديل الصور، والفحص الآمن.",
+  "apks": {
+    "arm64-v8a": {
+      "url": "https://raw.githubusercontent.com/kankonq8/my-app-releases/main/android/PhotoStudio/2.0/PhotoStudio-arm64-v8a.apk",
+      "sha256": "68452a0fcea1527371acdd20952923fae1fea7b5756fbca3dd9a3e8f9cc817df",
+      "size": 82810748
+    },
+    "armeabi-v7a": {
+      "url": "https://raw.githubusercontent.com/kankonq8/my-app-releases/main/android/PhotoStudio/2.0/PhotoStudio-armeabi-v7a.apk",
+      "sha256": "db90b6f5757ab169352cd13aa4b540970091e455e8a1a3ce2e02f189622b623f",
+      "size": 64748390
+    }
+  }
+}

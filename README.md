@@ -8,3 +8,4 @@ Built files only (no source code).
 - `website/site.tar.gz` + `website/version.txt` (`<version> <sha256>`) - the kankon.net website; the Synology NAS checks it every 5 minutes and installs new versions by itself.
 
 - `android/iReport/version.json` + `android/iReport/<version>/iReport-<abi>.apk` - iReport File Recovery for Android. The app reads version.json and updates itself (arm64-v8a = new phones, armeabi-v7a = old phones).
+- `android/PhotoStudio/version.json` + `android/PhotoStudio/<version>/PhotoStudio-<abi>.apk` - iReport Photo Studio for Android (album sorting, cleanup, photo editing, safe scan). Updates itself the same way.

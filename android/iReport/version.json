@@ -1,17 +1,17 @@
 {
-  "versionCode": 11,
-  "versionName": "6.2",
-  "notes": "جديد: الفحص الآمن 🛡 يكشف الصور غير اللائقة داخل جوالك ويعزلها عن المعرض في خزنة، تراجعها وتحذف اللي ما تبيه.",
+  "versionCode": 12,
+  "versionName": "6.3",
+  "notes": "رجع iReport للاسترجاع بس. ترتيب الألبومات والفحص الآمن صاروا في برنامج iReport Photo Studio.",
   "apks": {
     "arm64-v8a": {
-      "url": "https://raw.githubusercontent.com/kankonq8/my-app-releases/main/android/iReport/6.2/iReport-arm64-v8a.apk",
-      "sha256": "cea91d0d02e8a8d2e5418e6d65ff387ef845668f13ad4127180ec2224949cf60",
-      "size": 91026729
+      "url": "https://raw.githubusercontent.com/kankonq8/my-app-releases/main/android/iReport/6.3/iReport-arm64-v8a.apk",
+      "sha256": "bc15df81f4be98d2227275dfc1f88678c96c863711d5e2531930e53d0523ddfe",
+      "size": 55949445
     },
     "armeabi-v7a": {
-      "url": "https://raw.githubusercontent.com/kankonq8/my-app-releases/main/android/iReport/6.2/iReport-armeabi-v7a.apk",
-      "sha256": "86d4ab13cd8b0b8a33e76b21d31826180d6d62355632891f2b38594711cf8d94",
-      "size": 72964371
+      "url": "https://raw.githubusercontent.com/kankonq8/my-app-releases/main/android/iReport/6.3/iReport-armeabi-v7a.apk",
+      "sha256": "b55977502385bf248ca05b3f1448e2c6dec5bf17f79cdf912d899c772284bd9b",
+      "size": 43293803
     }
   }
 }
