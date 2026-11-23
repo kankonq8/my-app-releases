@@ -1,22 +1,17 @@
 {
-  "versionCode": 10,
-  "versionName": "6.1",
-  "notes": "ترتيب الألبومات داخل iReport + التحديث التلقائي من داخل البرنامج.",
+  "versionCode": 11,
+  "versionName": "6.2",
+  "notes": "جديد: الفحص الآمن 🛡 يكشف الصور غير اللائقة داخل جوالك ويعزلها عن المعرض في خزنة، تراجعها وتحذف اللي ما تبيه.",
   "apks": {
     "arm64-v8a": {
-      "url": "https://raw.githubusercontent.com/kankonq8/my-app-releases/main/android/iReport/6.1/iReport-arm64-v8a.apk",
-      "sha256": "125978cdc7ae54ba4202a0b69647186c7f53b40b173b1e1e4a8edece9f595bd6",
-      "size": 60329599
+      "url": "https://raw.githubusercontent.com/kankonq8/my-app-releases/main/android/iReport/6.2/iReport-arm64-v8a.apk",
+      "sha256": "cea91d0d02e8a8d2e5418e6d65ff387ef845668f13ad4127180ec2224949cf60",
+      "size": 91026729
     },
     "armeabi-v7a": {
-      "url": "https://raw.githubusercontent.com/kankonq8/my-app-releases/main/android/iReport/6.1/iReport-armeabi-v7a.apk",
-      "sha256": "d2e465628d302dc0116d4a81e210c08a40bdb18051de3636e294913ff89e1bef",
-      "size": 47673957
-    },
-    "x86_64": {
-      "url": "https://raw.githubusercontent.com/kankonq8/my-app-releases/main/android/iReport/6.1/iReport-x86_64.apk",
-      "sha256": "a8fc60c70d8cdfb7fa9a73ccf330dbce326b234f292c157ad35c1bfc46323dc0",
-      "size": 64338832
+      "url": "https://raw.githubusercontent.com/kankonq8/my-app-releases/main/android/iReport/6.2/iReport-armeabi-v7a.apk",
+      "sha256": "86d4ab13cd8b0b8a33e76b21d31826180d6d62355632891f2b38594711cf8d94",
+      "size": 72964371
     }
   }
 }
