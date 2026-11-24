@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "macArm64": "HardwareMonitor-Mac-1.0.0-osx-arm64.zip",
+  "macArm64Sha256": "5859A0357F9E5D3DE7B9A51B124E560EE400895F5A1A4CDB43E5D345F4E44A9A",
+  "macX64": "HardwareMonitor-Mac-1.0.0-osx-x64.zip",
+  "macX64Sha256": "8C607C099046A1AD580265A00DDCAEBAD591DEFC5D894C84BED73E02831389F4",
+  "arm64": { "url": "apps/HardwareMonitorMac/HardwareMonitor-Mac-1.0.0-osx-arm64.zip", "sha256": "5859A0357F9E5D3DE7B9A51B124E560EE400895F5A1A4CDB43E5D345F4E44A9A" },
+  "x64": { "url": "apps/HardwareMonitorMac/HardwareMonitor-Mac-1.0.0-osx-x64.zip", "sha256": "8C607C099046A1AD580265A00DDCAEBAD591DEFC5D894C84BED73E02831389F4" }
+}
