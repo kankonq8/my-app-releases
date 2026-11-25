@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "macArm64": "KankonPlants-Mac-1.0.0-osx-arm64.zip",
+  "macArm64Sha256": "9A97AF9425D3563E2BCE9BC08F057E8AAD33D7D637F93610F9A2147B2C13E352",
+  "macX64": "KankonPlants-Mac-1.0.0-osx-x64.zip",
+  "macX64Sha256": "DF29C5CBF8276811704F7FB668C60CB57E2F540278A8CAAE14A0AB7DD682B4B0",
+  "arm64": {
+    "url": "apps/KankonPlantsMac/KankonPlants-Mac-1.0.0-osx-arm64.zip",
+    "sha256": "9A97AF9425D3563E2BCE9BC08F057E8AAD33D7D637F93610F9A2147B2C13E352"
+  },
+  "x64": {
+    "url": "apps/KankonPlantsMac/KankonPlants-Mac-1.0.0-osx-x64.zip",
+    "sha256": "DF29C5CBF8276811704F7FB668C60CB57E2F540278A8CAAE14A0AB7DD682B4B0"
+  }
+}
