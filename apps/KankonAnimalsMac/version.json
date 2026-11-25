@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "macArm64": "KankonAnimals-Mac-1.0.0-osx-arm64.zip",
+  "macArm64Sha256": "5A7472FC4497FA4B9040C8546F5C7540BE97054B09D265F57B9977B7B2062502",
+  "macX64": "KankonAnimals-Mac-1.0.0-osx-x64.zip",
+  "macX64Sha256": "EAA4BA9F082ECAC2013B4D728A0B2B0CB83D8C2D5A60987E737A8B87DF0C50F4",
+  "arm64": {
+    "url": "apps/KankonAnimalsMac/KankonAnimals-Mac-1.0.0-osx-arm64.zip",
+    "sha256": "5A7472FC4497FA4B9040C8546F5C7540BE97054B09D265F57B9977B7B2062502"
+  },
+  "x64": {
+    "url": "apps/KankonAnimalsMac/KankonAnimals-Mac-1.0.0-osx-x64.zip",
+    "sha256": "EAA4BA9F082ECAC2013B4D728A0B2B0CB83D8C2D5A60987E737A8B87DF0C50F4"
+  }
+}
