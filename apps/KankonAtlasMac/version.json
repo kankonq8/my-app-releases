@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "macArm64": "KankonAtlas-Mac-1.0.0-osx-arm64.zip",
+  "macArm64Sha256": "071A4BDEDBE2DB60D253605D489BACF1296C4D4BCF4F17D6661DB13DD03DF83B",
+  "macX64": "KankonAtlas-Mac-1.0.0-osx-x64.zip",
+  "macX64Sha256": "088AAAFFE5F36019DD8E01E95CBD947B1FE2BE5DE7B0BEA27367439F69B1B560",
+  "arm64": {
+    "url": "apps/KankonAtlasMac/KankonAtlas-Mac-1.0.0-osx-arm64.zip",
+    "sha256": "071A4BDEDBE2DB60D253605D489BACF1296C4D4BCF4F17D6661DB13DD03DF83B"
+  },
+  "x64": {
+    "url": "apps/KankonAtlasMac/KankonAtlas-Mac-1.0.0-osx-x64.zip",
+    "sha256": "088AAAFFE5F36019DD8E01E95CBD947B1FE2BE5DE7B0BEA27367439F69B1B560"
+  }
+}
