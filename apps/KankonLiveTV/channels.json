@@ -1,0 +1,389 @@
+{
+ "version": 1,
+ "channels": [
+  {
+   "id": "aljazeera-ar",
+   "en": "Al Jazeera Arabic",
+   "ar": "الجزيرة",
+   "regions": [
+    "gulf",
+    "arab"
+   ],
+   "country": {
+    "en": "Qatar",
+    "ar": "قطر"
+   },
+   "lang": "ar",
+   "yt": "UCfiwzLy-8yKzIbsmZTzxDgw",
+   "site": "https://www.aljazeera.net"
+  },
+  {
+   "id": "aljazeera-en",
+   "en": "Al Jazeera English",
+   "ar": "الجزيرة الإنجليزية",
+   "regions": [
+    "gulf"
+   ],
+   "country": {
+    "en": "Qatar",
+    "ar": "قطر"
+   },
+   "lang": "en",
+   "yt": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+   "site": "https://www.aljazeera.com"
+  },
+  {
+   "id": "alarabiya",
+   "en": "Al Arabiya",
+   "ar": "العربية",
+   "regions": [
+    "gulf",
+    "arab"
+   ],
+   "country": {
+    "en": "Saudi Arabia",
+    "ar": "السعودية"
+   },
+   "lang": "ar",
+   "yt": "UCahpxixMCwoANAftn6IxkTg",
+   "site": "https://www.alarabiya.net"
+  },
+  {
+   "id": "alhadath",
+   "en": "Al Hadath",
+   "ar": "الحدث",
+   "regions": [
+    "gulf",
+    "arab"
+   ],
+   "country": {
+    "en": "Saudi Arabia",
+    "ar": "السعودية"
+   },
+   "lang": "ar",
+   "yt": "UCrj5BGAhtWxDfqbza9T9hqA",
+   "site": "https://www.alhadath.net"
+  },
+  {
+   "id": "skynews-ar",
+   "en": "Sky News Arabia",
+   "ar": "سكاي نيوز عربية",
+   "regions": [
+    "gulf",
+    "arab"
+   ],
+   "country": {
+    "en": "UAE",
+    "ar": "الإمارات"
+   },
+   "lang": "ar",
+   "yt": "UCIJXOvggjKtCagMfxvcCzAA",
+   "site": "https://www.skynewsarabia.com"
+  },
+  {
+   "id": "cnbc-ar",
+   "en": "CNBC Arabia",
+   "ar": "سي إن بي سي عربية",
+   "regions": [
+    "gulf",
+    "arab"
+   ],
+   "country": {
+    "en": "UAE",
+    "ar": "الإمارات"
+   },
+   "lang": "ar",
+   "yt": "UCsHdPPJXT-yKVTLGkn3DSvQ",
+   "site": "https://www.cnbcarabia.com"
+  },
+  {
+   "id": "bbc-ar",
+   "en": "BBC News Arabic",
+   "ar": "بي بي سي عربي",
+   "regions": [
+    "arab",
+    "european"
+   ],
+   "country": {
+    "en": "United Kingdom",
+    "ar": "المملكة المتحدة"
+   },
+   "lang": "ar",
+   "yt": "UCelk6aHijZq-GJBBB9YpReA",
+   "site": "https://www.bbc.com/arabic"
+  },
+  {
+   "id": "france24-ar",
+   "en": "France 24 Arabic",
+   "ar": "فرانس 24 بالعربية",
+   "regions": [
+    "arab",
+    "european"
+   ],
+   "country": {
+    "en": "France",
+    "ar": "فرنسا"
+   },
+   "lang": "ar",
+   "yt": "UCdTyuXgmJkG_O8_75eqej-w",
+   "site": "https://www.france24.com/ar"
+  },
+  {
+   "id": "dw-ar",
+   "en": "DW Arabic",
+   "ar": "دويتشه فيله عربية",
+   "regions": [
+    "arab",
+    "european"
+   ],
+   "country": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "lang": "ar",
+   "yt": "UC30ditU5JI16o5NbFsHde_Q",
+   "site": "https://www.dw.com/ar"
+  },
+  {
+   "id": "trt-ar",
+   "en": "TRT Arabi",
+   "ar": "تي آر تي عربي",
+   "regions": [
+    "arab",
+    "european"
+   ],
+   "country": {
+    "en": "Turkey",
+    "ar": "تركيا"
+   },
+   "lang": "ar",
+   "yt": "UC5GvVahlgulCyo4cshSmbcg",
+   "site": "https://www.trtarabi.com"
+  },
+  {
+   "id": "skynews",
+   "en": "Sky News",
+   "ar": "سكاي نيوز",
+   "regions": [
+    "european"
+   ],
+   "country": {
+    "en": "United Kingdom",
+    "ar": "المملكة المتحدة"
+   },
+   "lang": "en",
+   "yt": "UCoMdktPbSTixAyNGwb-UYkQ",
+   "site": "https://news.sky.com"
+  },
+  {
+   "id": "france24-en",
+   "en": "France 24 English",
+   "ar": "فرانس 24 بالإنجليزية",
+   "regions": [
+    "european"
+   ],
+   "country": {
+    "en": "France",
+    "ar": "فرنسا"
+   },
+   "lang": "en",
+   "yt": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+   "site": "https://www.france24.com/en"
+  },
+  {
+   "id": "france24-fr",
+   "en": "France 24 Français",
+   "ar": "فرانس 24 بالفرنسية",
+   "regions": [
+    "european"
+   ],
+   "country": {
+    "en": "France",
+    "ar": "فرنسا"
+   },
+   "lang": "fr",
+   "yt": "UCCCPCZNChQdGa9EkATeye4g",
+   "site": "https://www.france24.com/fr"
+  },
+  {
+   "id": "dw-news",
+   "en": "DW News",
+   "ar": "دويتشه فيله نيوز",
+   "regions": [
+    "european"
+   ],
+   "country": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "lang": "en",
+   "yt": "UCknLrEdhRCp1aegoMqRaCZg",
+   "site": "https://www.dw.com"
+  },
+  {
+   "id": "euronews",
+   "en": "Euronews",
+   "ar": "يورونيوز",
+   "regions": [
+    "european"
+   ],
+   "country": {
+    "en": "France",
+    "ar": "فرنسا"
+   },
+   "lang": "en",
+   "yt": "UCSrZ3UV4jOidv8ppoVuvW9Q",
+   "site": "https://www.euronews.com"
+  },
+  {
+   "id": "tagesschau",
+   "en": "Tagesschau",
+   "ar": "تاغيس شاو",
+   "regions": [
+    "european"
+   ],
+   "country": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "lang": "de",
+   "yt": "UC5NOEUbkLheQcaaRldYW5GA",
+   "site": "https://www.tagesschau.de"
+  },
+  {
+   "id": "trt-world",
+   "en": "TRT World",
+   "ar": "تي آر تي وورلد",
+   "regions": [
+    "european"
+   ],
+   "country": {
+    "en": "Turkey",
+    "ar": "تركيا"
+   },
+   "lang": "en",
+   "yt": "UC7fWeaHhqgM4Ry-RMpM2YYw",
+   "site": "https://www.trtworld.com"
+  },
+  {
+   "id": "abc-news",
+   "en": "ABC News",
+   "ar": "إيه بي سي نيوز",
+   "regions": [
+    "american"
+   ],
+   "country": {
+    "en": "United States",
+    "ar": "الولايات المتحدة"
+   },
+   "lang": "en",
+   "yt": "UCBi2mrWuNuyYy4gbM6fU18Q",
+   "site": "https://abcnews.go.com"
+  },
+  {
+   "id": "nbc-news",
+   "en": "NBC News",
+   "ar": "إن بي سي نيوز",
+   "regions": [
+    "american"
+   ],
+   "country": {
+    "en": "United States",
+    "ar": "الولايات المتحدة"
+   },
+   "lang": "en",
+   "yt": "UCeY0bbntWzzVIaj2z3QigXg",
+   "site": "https://www.nbcnews.com"
+  },
+  {
+   "id": "fox-news",
+   "en": "Fox News",
+   "ar": "فوكس نيوز",
+   "regions": [
+    "american"
+   ],
+   "country": {
+    "en": "United States",
+    "ar": "الولايات المتحدة"
+   },
+   "lang": "en",
+   "yt": "UCXIJgqnII2ZOINSWNOGFThA",
+   "site": "https://www.foxnews.com"
+  },
+  {
+   "id": "livenow",
+   "en": "LiveNOW from FOX",
+   "ar": "لايف ناو من فوكس",
+   "regions": [
+    "american"
+   ],
+   "country": {
+    "en": "United States",
+    "ar": "الولايات المتحدة"
+   },
+   "lang": "en",
+   "yt": "UCJg9wBPyKMNA5sRDnvzmkdg",
+   "site": "https://www.livenowfox.com"
+  },
+  {
+   "id": "bloomberg",
+   "en": "Bloomberg Television",
+   "ar": "تلفزيون بلومبرغ",
+   "regions": [
+    "american"
+   ],
+   "country": {
+    "en": "United States",
+    "ar": "الولايات المتحدة"
+   },
+   "lang": "en",
+   "yt": "UCIALMKvObZNtJ6AmdCLP7Lg",
+   "site": "https://www.bloomberg.com/live"
+  },
+  {
+   "id": "cnbc",
+   "en": "CNBC",
+   "ar": "سي إن بي سي",
+   "regions": [
+    "american"
+   ],
+   "country": {
+    "en": "United States",
+    "ar": "الولايات المتحدة"
+   },
+   "lang": "en",
+   "yt": "UCvJJ_dzjViJCoLf5uKUTwoA",
+   "site": "https://www.cnbc.com"
+  },
+  {
+   "id": "nasa",
+   "en": "NASA",
+   "ar": "ناسا",
+   "regions": [
+    "american"
+   ],
+   "country": {
+    "en": "United States",
+    "ar": "الولايات المتحدة"
+   },
+   "lang": "en",
+   "yt": "UCLA_DiR1FfKNvjuUpBHmylQ",
+   "site": "https://www.nasa.gov/nasatv"
+  },
+  {
+   "id": "cgtn",
+   "en": "CGTN",
+   "ar": "سي جي تي إن",
+   "regions": [
+    "other"
+   ],
+   "country": {
+    "en": "China",
+    "ar": "الصين"
+   },
+   "lang": "en",
+   "yt": "UCgrNz-aDmcr2uuto8_DL2jg",
+   "site": "https://www.cgtn.com"
+  }
+ ]
+}
